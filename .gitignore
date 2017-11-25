@@ -1,0 +1,14 @@
+.vanessa.json
+__pycache__
+secrets.py
+.secret
+images/
+.dist/
+.build/
+migrations/
+.static/
+.git
+.tmp
+/static
+app.yaml
+sendgrid.env
